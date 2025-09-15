@@ -13,6 +13,7 @@ The assignment consists of two main tasks:
 ├── pcaps/                 # Provided pcap files
 ├── src/
 │   ├── client.py          # Client implementation for DNS Resolver
+│   ├── utils.py           # parsing the custom header and applying the rule selection logic.
 │   └── server.py          # Server implementation
 ├── report.pdf             # LaTeX report
 ├── report_morning.csv     # results during morning
