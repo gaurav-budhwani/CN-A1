@@ -10,6 +10,7 @@ The assignment consists of two main tasks:
 ## Repository Structure
 ```
 .
+├── Assignment-1-CN.pdf    # Assignment Document
 ├── pcaps/                 # Provided pcap files
 ├── src/
 │   ├── client.py          # Client implementation for DNS Resolver
@@ -19,6 +20,7 @@ The assignment consists of two main tasks:
 ├── report_morning.csv     # results during morning
 ├── report_afternoon.csv   # results during afternoon
 ├── report_night.csv       # results during night
+├── requirements.txt      
 └── README.md # This file
 ```
 
