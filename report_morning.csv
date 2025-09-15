@@ -1,0 +1,24 @@
+custom_header(HHMMSSID),domain,resolved_ip
+11102800,_apple-mobdev._tcp.local,192.168.1.1
+11102801,_apple-mobdev._tcp.local,192.168.1.2
+11102802,twitter.com,192.168.1.3
+11102803,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.4
+11102804,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.5
+11102805,example.com,192.168.1.1
+11102806,netflix.com,192.168.1.2
+11102807,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.3
+11102808,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.4
+11102809,linkedin.com,192.168.1.5
+11102810,_apple-mobdev._tcp.local,192.168.1.1
+11102811,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.2
+11102812,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.3
+11102813,reddit.com,192.168.1.4
+11102814,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.5
+11102815,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.1
+11102816,_apple-mobdev._tcp.local,192.168.1.2
+11102817,_apple-mobdev._tcp.local,192.168.1.3
+11102818,openai.com,192.168.1.4
+11102819,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.5
+11102820,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.1
+11102821,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.2
+11102822,Brother MFC-7860DW._pdl-datastream._tcp.local,192.168.1.3
